@@ -1,5 +1,5 @@
-project one 
-# machine-learning-Regression-Life-Satisfaction---GDP-per-Capita-Problem-
+#project one 
+ machine-learning-Regression-Life-Satisfaction---GDP-per-Capita-Problem-
 TODO 1: Predict Venezuela life satisfaction value by a model based learning (Linear Regression, LinearRegression) method
 
 In the scatter plot you get, show Venezuela in a different color.*
@@ -22,7 +22,7 @@ Print the LifeSatisfaction value you obtaine.*
 Plot the polynomial function that fits the data.*
 
 
-project two
+#project two
 The aim of this assignment is to use Ensemble Learning to solve a problem. In this way, it is aimed to understand the benefits of Ensemble Learning and to teach the usage details of different ensemble approaches with the help of ScikitLearn library. 
 
 The following methods will be implemented within the scope of this assignment. These are:
@@ -36,7 +36,7 @@ The following methods will be implemented within the scope of this assignment. T
 
 - Random forest classifier
 
-project three
+#project three
 
 Note: This is the legendary Titanic ML competition the best of [Kaggle](https://www.kaggle.com/),  first challenge for you to dive into ML competitions and familiarize yourself with how the Kaggle platform works. Let's go to the [Titanic challenge](https://www.kaggle.com/c/titanic).
 ​
